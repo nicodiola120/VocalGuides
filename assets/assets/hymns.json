@@ -2,7 +2,7 @@
   "hymns": [
     {
       "title": "I Will Sing Forever",
-      "folder": "I_Will_Sing_Forever",
+      "folder": "i_will_sing_forever",
       "voices": ["soprano", "alto", "tenor", "bass"]
     }
   ]
